@@ -9,4 +9,4 @@ Self made KNN model from for learning and course requirement.
 #### Data245 Individual_Project_Darshit_014517932.pdf:
 Short-Report for explanation with Kaggle accuracy and rank
 
-An application K-Nearest Neighbors machine learning model from scratch, Random Forest, and Naive Bayes to ensemble  to predict the survival of Titanic passengers by maximum vote of three models.
+An application of K-Nearest Neighbors machine learning model from scratch, Random Forest, and Naive Bayes to ensemble and predict the survival of Titanic passengers by maximum vote of three models.
